@@ -1,0 +1,23 @@
+{
+  "name": "dx-loading",
+  "version": "1.0.0",
+  "description": "A loading component for Vue.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "email": "linmn@gddxit.com"
+  },
+  "keywords": [
+    "gddxit",
+    "vue",
+    "component"
+  ],
+  "author": "gddxit",
+  "license": "MIT"
+}
